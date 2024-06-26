@@ -1,5 +1,3 @@
-<img width="1440" alt="Screenshot 2024-06-26 at 9 50 35 PM" src="https://github.com/DianaKahar/Data_management4/assets/149170546/2dfdecd2-c89d-4e4d-97e3-d9ee261c0717"># Data_management4
-
 # STQD6324 DATA MANAGEMENT
 
 # INTRODUCTION
@@ -157,3 +155,8 @@ v) Find all the users who have the occupation “scientist” and their age is b
 
 5. Users Occupation “Scientist” and Age Between 30 and 40 Years Old.
 <img width="371" alt="Screenshot 2024-06-26 at 9 33 16 PM" src="https://github.com/DianaKahar/Data_management4/assets/149170546/d83d765e-6bab-4e83-aab8-49e2449ecf67">
+
+
+# CONCLUSION
+
+This project was able to answer all the objectives that was required and also provide valueble insights on 100k Movielens dataset. 
