@@ -1,4 +1,4 @@
-# Data_management4
+<img width="1440" alt="Screenshot 2024-06-26 at 9 50 35 PM" src="https://github.com/DianaKahar/Data_management4/assets/149170546/2dfdecd2-c89d-4e4d-97e3-d9ee261c0717"># Data_management4
 
 # STQD6324 DATA MANAGEMENT
 
@@ -136,3 +136,24 @@ v) Find all the users who have the occupation “scientist” and their age is b
 
 
     spark.stop()
+
+
+# RESULTS
+
+1. Average Rating of Each Movie.
+<img width="274" alt="Screenshot 2024-06-26 at 9 25 28 PM" src="https://github.com/DianaKahar/Data_management4/assets/149170546/748938e2-11b9-41c7-9c51-060502ca7196">
+
+2. Top Ten Movies with the Highest Average Ratings.
+<img width="249" alt="Screenshot 2024-06-26 at 9 27 15 PM" src="https://github.com/DianaKahar/Data_management4/assets/149170546/3439bf26-3d8e-4671-9c5e-da62260f2b8f">
+
+   
+3. Users Rated at least 50 Movies and Their Favourite Movie Genres.
+<img width="380" alt="Screenshot 2024-06-26 at 9 29 59 PM" src="https://github.com/DianaKahar/Data_management4/assets/149170546/86ac2221-caca-4a88-adff-b63c524061a5">
+
+
+4. Users with Age Less than 20 Years Old.
+<img width="403" alt="Screenshot 2024-06-26 at 9 32 43 PM" src="https://github.com/DianaKahar/Data_management4/assets/149170546/d5d13b70-6061-41f1-9092-553c48854f2c">
+
+
+5. Users Occupation “Scientist” and Age Between 30 and 40 Years Old.
+<img width="371" alt="Screenshot 2024-06-26 at 9 33 16 PM" src="https://github.com/DianaKahar/Data_management4/assets/149170546/d83d765e-6bab-4e83-aab8-49e2449ecf67">
