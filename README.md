@@ -141,6 +141,7 @@ v) Find all the users who have the occupation “scientist” and their age is b
 1. Average Rating of Each Movie.
 <img width="274" alt="Screenshot 2024-06-26 at 9 25 28 PM" src="https://github.com/DianaKahar/Data_management4/assets/149170546/748938e2-11b9-41c7-9c51-060502ca7196">
 
+
 2. Top Ten Movies with the Highest Average Ratings.
 <img width="249" alt="Screenshot 2024-06-26 at 9 27 15 PM" src="https://github.com/DianaKahar/Data_management4/assets/149170546/3439bf26-3d8e-4671-9c5e-da62260f2b8f">
 
@@ -159,4 +160,4 @@ v) Find all the users who have the occupation “scientist” and their age is b
 
 # CONCLUSION
 
-This project was able to answer all the objectives that was required and also provide valueble insights on 100k Movielens dataset. 
+This project was able to answer all the objectives that was required and also provide valueble insights on 100k Movielens dataset. Calculation on the average rating for each movie, helps gain insight on how well received each of the movies are among the users. Identification on the top 10 movies with the highest average rating which reveals the movie that can be considered the best in terms of user satisfaction. From the project, we are also able to identify the users demographic of users age, gender and occupation. Using Apache Spark and Apache Cassandra showcase the capability to handle large data for processing and scaling. In summary, the MovieLens Analysis project provides a comprehensive view of movie ratings, user preferences, and demographic insights, which are crucial for enhancing user satisfaction and driving business strategies in the movie and entertainment industry.
