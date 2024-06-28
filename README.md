@@ -139,23 +139,27 @@ v) Find all the users who have the occupation “scientist” and their age is b
 # RESULTS
 
 1. Average Rating of Each Movie.
-<img width="274" alt="Screenshot 2024-06-26 at 9 25 28 PM" src="https://github.com/DianaKahar/Data_management4/assets/149170546/748938e2-11b9-41c7-9c51-060502ca7196">
+<img width="228" alt="Screenshot 2024-06-28 at 2 03 30 PM" src="https://github.com/DianaKahar/Data_management4/assets/149170546/ca8790f6-0ed0-4948-999a-74f6fad868e3">
 
 
 2. Top Ten Movies with the Highest Average Ratings.
-<img width="249" alt="Screenshot 2024-06-26 at 9 27 15 PM" src="https://github.com/DianaKahar/Data_management4/assets/149170546/3439bf26-3d8e-4671-9c5e-da62260f2b8f">
+<img width="219" alt="Screenshot 2024-06-28 at 2 13 27 PM" src="https://github.com/DianaKahar/Data_management4/assets/149170546/27fca099-a643-467d-a23e-2220a19f8b8d">
+
 
    
 3. Users Rated at least 50 Movies and Their Favourite Movie Genres.
-<img width="380" alt="Screenshot 2024-06-26 at 9 29 59 PM" src="https://github.com/DianaKahar/Data_management4/assets/149170546/86ac2221-caca-4a88-adff-b63c524061a5">
+<img width="328" alt="Screenshot 2024-06-28 at 2 04 43 PM" src="https://github.com/DianaKahar/Data_management4/assets/149170546/84ecdaf3-85f3-4609-b357-fea2c644075b">
+
 
 
 4. Users with Age Less than 20 Years Old.
-<img width="403" alt="Screenshot 2024-06-26 at 9 32 43 PM" src="https://github.com/DianaKahar/Data_management4/assets/149170546/d5d13b70-6061-41f1-9092-553c48854f2c">
+<img width="362" alt="Screenshot 2024-06-28 at 2 07 28 PM" src="https://github.com/DianaKahar/Data_management4/assets/149170546/888906c5-b6ef-4a0b-ba88-011982f7fffe">
+
 
 
 5. Users Occupation “Scientist” and Age Between 30 and 40 Years Old.
-<img width="371" alt="Screenshot 2024-06-26 at 9 33 16 PM" src="https://github.com/DianaKahar/Data_management4/assets/149170546/d83d765e-6bab-4e83-aab8-49e2449ecf67">
+<img width="330" alt="Screenshot 2024-06-28 at 2 11 43 PM" src="https://github.com/DianaKahar/Data_management4/assets/149170546/ad86bac1-048c-45ae-85fb-c94eda40883e">
+
 
 
 # CONCLUSION
